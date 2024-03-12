@@ -1,0 +1,14 @@
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\bin\Debug\net7.0\Final_Contrel_Certification.exe
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\bin\Debug\net7.0\Final_Contrel_Certification.deps.json
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\bin\Debug\net7.0\Final_Contrel_Certification.runtimeconfig.json
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\bin\Debug\net7.0\Final_Contrel_Certification.dll
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\bin\Debug\net7.0\Final_Contrel_Certification.pdb
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\obj\Debug\net7.0\Final_Contrel_Certification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\obj\Debug\net7.0\Final_Contrel_Certification.AssemblyInfoInputs.cache
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\obj\Debug\net7.0\Final_Contrel_Certification.AssemblyInfo.cs
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\obj\Debug\net7.0\Final_Contrel_Certification.csproj.CoreCompileInputs.cache
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\obj\Debug\net7.0\Final_Contrel_Certification.dll
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\obj\Debug\net7.0\refint\Final_Contrel_Certification.dll
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\obj\Debug\net7.0\Final_Contrel_Certification.pdb
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\obj\Debug\net7.0\Final_Contrel_Certification.genruntimeconfig.cache
+C:\Users\САША\Desktop\Учеба\Final_Contrel_Certification\obj\Debug\net7.0\ref\Final_Contrel_Certification.dll
